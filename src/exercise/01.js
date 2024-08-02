@@ -17,7 +17,7 @@ function App() {
   // impacts the user experience.
   return (
     <div
-      style={{
+      style={{ 
         display: 'flex',
         alignItems: 'center',
         flexDirection: 'column',

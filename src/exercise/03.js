@@ -119,3 +119,6 @@ export default App
 eslint
   no-func-assign: 0,
 */
+
+
+// This component does not show up in the exercise visual. Look into this later.
